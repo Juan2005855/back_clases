@@ -1,0 +1,1 @@
+export const SALUDOS_SERVICIOS = Symbol('SALUDOS_SERVICIOS');
