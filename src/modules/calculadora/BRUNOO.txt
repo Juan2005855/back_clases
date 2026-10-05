@@ -1,0 +1,19 @@
+EN BRUNO:
+
+http://127.0.0.1:300/calculator
+{
+    "numero1": 1,
+    "numero2": 2,
+    "op": "+"
+}
+
+http://127.0.0.1:300/calculator/addition
+{
+    "numbers": [1, 4, 28];
+}
+
+http://127.0.0.1:300/calculator/subsatraction
+{
+    "num1": 1,
+    "num2": 2,
+}
